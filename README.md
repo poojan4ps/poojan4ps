@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Poojan Shah</h1>
+<h1 align="center">Hey 👋, Myself Poojan Shah</h1>
 <h3 align="center">Software Engineer with passion for Cloud and Data</h3>
 
 - 🌱 I’m currently working on **Cloud Computing, Data, LLMs, Optimization**
