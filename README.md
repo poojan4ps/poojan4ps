@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cloud Computing , Data Structure & Algorithms**
 
-- 📫 Reach me at**456pshah@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
